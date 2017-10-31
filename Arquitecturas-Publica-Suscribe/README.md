@@ -16,7 +16,7 @@ La tarea 1 cuenta con un simulador que ofrece una situación más realista acerc
 
 El simulador implementa una versión funcional del Sistema de Monitore de Adultos Mayores (SMAM). A continuación se muestra un diagrama de contenedores del SMAM.
 
-![Diagrama de contenedores del SMAM](imagenes/diagrama-contenedores.png)
+![Diagrama de contenedores del SMAM](imagenes/diagrama-contenedores2.png)
 
 ## Versión
 
